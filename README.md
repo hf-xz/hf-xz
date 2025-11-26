@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [monodoc](https://github.com/hf-xz/monodoc).
 - 🌱 I’m currently learning AI Application development.
+- 😄 I'm trying to be an AI Application Engineer.
 - 📫 How to reach me: `xuan__zai@outlook.com`.
