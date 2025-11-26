@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [sale-gain](https://github.com/hf-xz/sale-gain).
+- 🔭 I’m currently working on [monodoc](https://github.com/hf-xz/monodoc).
 - 🌱 I’m currently learning AI Application development.
 - 📫 How to reach me: `xuan__zai@outlook.com`.
